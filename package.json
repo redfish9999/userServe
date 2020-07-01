@@ -14,6 +14,7 @@
     "core-js": "^3.6.5",
     "element-ui": "^2.13.2",
     "element-up": "^0.9.0",
+    "firebase": "^7.15.5",
     "vue": "^2.6.11",
     "vue-router": "^3.3.4"
   },
@@ -49,5 +50,15 @@
     "not dead"
   ],
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "description": "## Project setup ``` yarn install ```",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redfish9999/userServe.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/redfish9999/userServe/issues"
+  },
+  "homepage": "https://github.com/redfish9999/userServe#readme"
 }

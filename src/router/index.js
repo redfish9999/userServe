@@ -22,6 +22,11 @@ const routes = [
     path: '/user/sign_up',
     name: 'signUp',
     component: SignUpPage
+  },
+  {
+    path: '*',
+    name: 'defaultPage',
+    component: Home
   }
 ];
 
